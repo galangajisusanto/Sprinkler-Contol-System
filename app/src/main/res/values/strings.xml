@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fuzzy Logic Srinkler Control System</string>
+    <string name="suhu">"Masukan Suhu -10C - 50C</string>
+    <string name="kelembapan">"Masukan Kelembapan 0% - 70%</string>
+    <string name="get_sprinkler_control">get sprinkler Control</string>
+</resources>
